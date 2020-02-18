@@ -10,6 +10,7 @@ OneSlide is a learning format where a single slide covers a technical topic.
 6. C++: memory allocation on stack and Heap
 7. Java: Protected by Whom?
 8. Java: PECS
+9. js: ...rest vs ...spread
 
 TODOs
 - js: Set with Objects
