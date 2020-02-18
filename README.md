@@ -11,6 +11,8 @@ OneSlide is a learning format where a single slide covers a technical topic.
 7. Java: Protected by Whom?
 8. Java: PECS
 
+TODOs
+- js: Set with Objects
 - js: Array functional methods
 - Java: interface vs class
 - Java: Null vs Optional
